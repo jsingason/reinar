@@ -11,11 +11,3 @@ pnpm dev
 ```
 
 Load `build/chrome-mv3-dev` as an unpacked extension in Chrome, then open the [RÚV player](https://ord.ruv.is/player/) to see it in action.
-
-## Production build
-
-```bash
-pnpm build
-```
-
-This creates a production bundle ready to be zipped and submitted to the Chrome Web Store.
