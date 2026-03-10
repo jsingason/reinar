@@ -1,4 +1,4 @@
-# RÚV Orðabók – m.is
+# ord.ruv.is orðabók í m.is
 
 A browser extension that enhances the word-learning player on [ord.ruv.is](https://ord.ruv.is). When a word appears in the player, the extension automatically looks it up via the [malid.is](https://malid.is) API and injects a direct link to its entry in the [m.is Icelandic dictionary](https://m.is/ordabok), so you can read a full definition without leaving the page.
 
